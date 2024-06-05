@@ -1,0 +1,6 @@
+[book]
+authors = ["Aiven Timptner"]
+language = "de"
+multilingual = false
+src = "src"
+title = "Fachschaftentagung Maschinenbau 2024"

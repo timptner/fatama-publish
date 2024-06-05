@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FaTaMa 2024 Veröffentlichungen</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on FaTaMa 2024 Veröffentlichungen</description>
+    <generator>Hugo</generator>
+    <language>de-de</language>
+    <lastBuildDate>Wed, 15 May 2024 21:03:05 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Plenen</title>
+      <link>http://localhost:1313/docs/meetings/</link>
+      <pubDate>Wed, 15 May 2024 20:59:32 +0200</pubDate>
+      <guid>http://localhost:1313/docs/meetings/</guid>
+      <description> Plenen # Eröffnungsplenum Zwischenplenum Abschlussplenum </description>
+    </item>
+    <item>
+      <title>Seminare</title>
+      <link>http://localhost:1313/docs/workshops/</link>
+      <pubDate>Wed, 15 May 2024 20:55:17 +0200</pubDate>
+      <guid>http://localhost:1313/docs/workshops/</guid>
+      <description> Seminare # Block 1 # Einführungswoche </description>
+    </item>
+    <item>
+      <title>Eröffnungsplenum</title>
+      <link>http://localhost:1313/meetings/opening/</link>
+      <pubDate>Wed, 15 May 2024 21:03:05 +0200</pubDate>
+      <guid>http://localhost:1313/meetings/opening/</guid>
+      <description> Eröffnungsplenum # </description>
+    </item>
+    <item>
+      <title>Einführungswoche</title>
+      <link>http://localhost:1313/workshops/welcome-week/</link>
+      <pubDate>Thu, 09 May 2024 11:35:00 +0200</pubDate>
+      <guid>http://localhost:1313/workshops/welcome-week/</guid>
+      <description>Einführungswoche # Redeleitung Meike Schelm (Stuttgart)&#xA;Protokollant Katharina Hartweg (FH Dortmund)&#xA;Beginn 2024-05-09 13:35&#xA;Ende 2024-05-09 15:00&#xA;Teilnehmende Fachschaften&#xA;FAU Erlangen FH Dortmund Frankfurt UAS HS Emden/Leer HS Hannover HS München KIT RPTU Kaiserslautern-Landau RU Bochum (MB) RU Bochum (SEPM) RWTH Aachen TH OWL TU Berlin TU Braunschweig TU Darmstadt TU Dresden TU Freiberg TU Ilmenau Uni Duisburg-Essen Uni Hannover Uni Paderborn Uni Stuttgart (FLURUS) Uni Stuttgart (Mach &amp;amp; Co.</description>
+    </item>
+  </channel>
+</rss>

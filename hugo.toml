@@ -1,4 +1,0 @@
-baseURL = "https://publish.fatama2024.de/"
-languageCode = "de-de"
-title = "FaTaMa 2024 Veröffentlichungen"
-theme = "hugo-book"

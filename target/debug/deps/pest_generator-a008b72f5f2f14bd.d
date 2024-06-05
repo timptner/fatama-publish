@@ -1,0 +1,11 @@
+/Users/aiven/Projects/fatama-publish/target/debug/deps/libpest_generator-a008b72f5f2f14bd.rmeta: /Users/aiven/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pest_generator-2.7.10/src/lib.rs /Users/aiven/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pest_generator-2.7.10/src/macros.rs /Users/aiven/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pest_generator-2.7.10/src/docs.rs /Users/aiven/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pest_generator-2.7.10/src/generator.rs /Users/aiven/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pest_generator-2.7.10/src/parse_derive.rs
+
+/Users/aiven/Projects/fatama-publish/target/debug/deps/libpest_generator-a008b72f5f2f14bd.rlib: /Users/aiven/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pest_generator-2.7.10/src/lib.rs /Users/aiven/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pest_generator-2.7.10/src/macros.rs /Users/aiven/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pest_generator-2.7.10/src/docs.rs /Users/aiven/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pest_generator-2.7.10/src/generator.rs /Users/aiven/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pest_generator-2.7.10/src/parse_derive.rs
+
+/Users/aiven/Projects/fatama-publish/target/debug/deps/pest_generator-a008b72f5f2f14bd.d: /Users/aiven/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pest_generator-2.7.10/src/lib.rs /Users/aiven/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pest_generator-2.7.10/src/macros.rs /Users/aiven/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pest_generator-2.7.10/src/docs.rs /Users/aiven/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pest_generator-2.7.10/src/generator.rs /Users/aiven/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pest_generator-2.7.10/src/parse_derive.rs
+
+/Users/aiven/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pest_generator-2.7.10/src/lib.rs:
+/Users/aiven/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pest_generator-2.7.10/src/macros.rs:
+/Users/aiven/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pest_generator-2.7.10/src/docs.rs:
+/Users/aiven/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pest_generator-2.7.10/src/generator.rs:
+/Users/aiven/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pest_generator-2.7.10/src/parse_derive.rs:

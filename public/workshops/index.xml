@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Workshops on FaTaMa 2024 Veröffentlichungen</title>
+    <link>http://localhost:1313/workshops/</link>
+    <description>Recent content in Workshops on FaTaMa 2024 Veröffentlichungen</description>
+    <generator>Hugo</generator>
+    <language>de-de</language>
+    <lastBuildDate>Thu, 09 May 2024 11:35:00 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/workshops/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Einführungswoche</title>
+      <link>http://localhost:1313/workshops/welcome-week/</link>
+      <pubDate>Thu, 09 May 2024 11:35:00 +0200</pubDate>
+      <guid>http://localhost:1313/workshops/welcome-week/</guid>
+      <description>Einführungswoche # Redeleitung Meike Schelm (Stuttgart)&#xA;Protokollant Katharina Hartweg (FH Dortmund)&#xA;Beginn 2024-05-09 13:35&#xA;Ende 2024-05-09 15:00&#xA;Teilnehmende Fachschaften&#xA;FAU Erlangen FH Dortmund Frankfurt UAS HS Emden/Leer HS Hannover HS München KIT RPTU Kaiserslautern-Landau RU Bochum (MB) RU Bochum (SEPM) RWTH Aachen TH OWL TU Berlin TU Braunschweig TU Darmstadt TU Dresden TU Freiberg TU Ilmenau Uni Duisburg-Essen Uni Hannover Uni Paderborn Uni Stuttgart (FLURUS) Uni Stuttgart (Mach &amp;amp; Co.</description>
+    </item>
+  </channel>
+</rss>

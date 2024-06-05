@@ -1,0 +1,15 @@
+/Users/aiven/Projects/fatama-publish/target/debug/deps/libmarkup5ever-f342cb5bd6833b75.rmeta: /Users/aiven/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.12.1/lib.rs /Users/aiven/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.12.1/data/mod.rs /Users/aiven/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.12.1/interface/mod.rs /Users/aiven/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.12.1/interface/tree_builder.rs /Users/aiven/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.12.1/serialize.rs /Users/aiven/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.12.1/util/buffer_queue.rs /Users/aiven/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.12.1/util/smallcharset.rs /Users/aiven/Projects/fatama-publish/target/debug/build/markup5ever-b1e59238cbe7265b/out/generated.rs /Users/aiven/Projects/fatama-publish/target/debug/build/markup5ever-b1e59238cbe7265b/out/named_entities.rs
+
+/Users/aiven/Projects/fatama-publish/target/debug/deps/markup5ever-f342cb5bd6833b75.d: /Users/aiven/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.12.1/lib.rs /Users/aiven/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.12.1/data/mod.rs /Users/aiven/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.12.1/interface/mod.rs /Users/aiven/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.12.1/interface/tree_builder.rs /Users/aiven/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.12.1/serialize.rs /Users/aiven/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.12.1/util/buffer_queue.rs /Users/aiven/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.12.1/util/smallcharset.rs /Users/aiven/Projects/fatama-publish/target/debug/build/markup5ever-b1e59238cbe7265b/out/generated.rs /Users/aiven/Projects/fatama-publish/target/debug/build/markup5ever-b1e59238cbe7265b/out/named_entities.rs
+
+/Users/aiven/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.12.1/lib.rs:
+/Users/aiven/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.12.1/data/mod.rs:
+/Users/aiven/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.12.1/interface/mod.rs:
+/Users/aiven/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.12.1/interface/tree_builder.rs:
+/Users/aiven/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.12.1/serialize.rs:
+/Users/aiven/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.12.1/util/buffer_queue.rs:
+/Users/aiven/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.12.1/util/smallcharset.rs:
+/Users/aiven/Projects/fatama-publish/target/debug/build/markup5ever-b1e59238cbe7265b/out/generated.rs:
+/Users/aiven/Projects/fatama-publish/target/debug/build/markup5ever-b1e59238cbe7265b/out/named_entities.rs:
+
+# env-dep:OUT_DIR=/Users/aiven/Projects/fatama-publish/target/debug/build/markup5ever-b1e59238cbe7265b/out

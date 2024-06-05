@@ -2,24 +2,26 @@
 
 This repository contains all meeting notes and workshop journals from the conference of mechanical engineering student councils.
 
-## Developement
+## Preconditions
 
-Add new pages with:
+Install dependencies.
 
 ```shell
-hugo new content <path>
+cargo install mdbook
 ```
 
-Run local webserver (with draft files and hot reloading).
+## Writing
+
+Start a local webserver with a watcher for file changes.
 
 ```shell
-hugo server -D
+mdbook serve --open
 ```
 
-## Production
+## Publish
 
-Compile content to minified static files.
+Render files to finished book.
 
 ```shell
-hugo
+mdbook build
 ```
